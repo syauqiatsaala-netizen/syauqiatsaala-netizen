@@ -1,4 +1,4 @@
-## Hi there 👋
+# HELLO BROO 👋
 
 <!--
 **syauqiatsaala-netizen/syauqiatsaala-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m a STUDEN **AT SMKI sahabat ilmu**
+- 🌱 I’m currently learning **HTML And CSS**
+![HI](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlydnF1eW1jNXRqaHA0Mjcyc3E4Z3MwaW5qZmZqcWQxb3BveDFiOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3PAL5bChWnak0WJ32x/giphy.gif)
