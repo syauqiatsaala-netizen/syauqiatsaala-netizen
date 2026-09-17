@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a STUDEN **AT SMKI sahabat ilmu**
 - 🌱 I’m currently learning **HTML And CSS**
-![HI](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlydnF1eW1jNXRqaHA0Mjcyc3E4Z3MwaW5qZmZqcWQxb3BveDFiOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3PAL5bChWnak0WJ32x/giphy.gif)
-![alt text](download.jpg)
+![HI](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBkd3dza2o3cm5oZW02NWxmNHBoamdmN3d4YmNzYWEyYms0b2JhaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3NjABnBOieYQE4BpkP/giphy.gif)
